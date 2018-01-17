@@ -1,0 +1,14 @@
+{
+  "test-nodo1": [
+                  {"title":"Hellouses"},
+                  {"other":"Tomatin"},
+                  {"name": "El mejor json", "row":{
+                                                          "age":15, "height":"200px"
+                                                      }
+                  }
+                ],
+  "test-nodo2": {
+                    "ejemplo":5,
+                    "desejemplo":10
+                }
+}
